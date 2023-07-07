@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oscar Pfuturi, I'm from Perú
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Angular and Electron JS
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on Web Applications
 - 📫 How to reach me oscarpfuturi961@gmail.com
 
